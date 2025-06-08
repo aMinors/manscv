@@ -1,2 +1,0 @@
-# manscv
-cv
